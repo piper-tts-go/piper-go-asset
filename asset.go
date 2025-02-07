@@ -4,7 +4,7 @@ import (
 	"io/fs"
 )
 
-// Asset describes an embedded asset used in github.com/amitybell/piper
+// Asset describes an embedded asset used in github.com/piper-tts-go/piper-go
 type Asset struct {
 	// Name is the name of the asset
 	Name string
