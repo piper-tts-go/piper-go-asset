@@ -1,3 +1,3 @@
-module github.com/amitybell/piper-asset
+module github.com/piper-tts-go/piper-go-asset
 
-go 1.21
+go 1.23
